@@ -13,3 +13,8 @@ body {
     color: white;
     text-align: center;
 }
+
+#authorImg {
+    display: block;
+    margin: 0 auto;
+}
